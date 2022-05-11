@@ -1,16 +1,17 @@
-### Hi there 👋
+###           Hola! 👋👋
 
-<!--
-**FedericaRios/FedericaRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Soy Federica Rios, desarrolladora web front-end
 
-Here are some ideas to get you started:
+##Sobre mi
+💻 Actualmente me encuentro:
+-  estudiando la escuela de JS de Platzi y otros cursos de tecnologías,
+-  realizando proyectos personales.
+😄 En mis tiempos libres:
+- Aprecio salir a disfrutar de la naturaleza, 
+- ver series o peliculas, 
+- compartir tiempo con amigos, 
+- leer algún libro de mi interés, entre otras cosas.
+🤓 Mis intereses a futuro son:
+- Continuar estudiando inglés,
+- Aprender nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
